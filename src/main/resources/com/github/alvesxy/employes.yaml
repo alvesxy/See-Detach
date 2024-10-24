@@ -1,0 +1,41 @@
+employee:
+  Maria:
+    email: maria@alvesxy.com.br
+    salary: 3200
+    gender: f
+  Alex:
+    email: alex@alvesxy.com.br
+    salary: 1900
+    gender: m
+  Marco:
+    email: marco@alvesxy.com.br
+    salary: 1700
+    gender: m
+  Bob:
+    email: bob@alvesxy.com.br
+    salary: 3500
+    gender: m
+  Anna:
+    email: anna@alvesxy.com.br
+    salary: 2800
+    gender: f
+  John:
+    email: john@alvesxy.com.br
+    salary: 4900
+    gender: m
+  Aura:
+    email: aura@alvesxy.com.br
+    salary: 2340
+    gender: f
+  Bruce:
+    email: bruce@alvesxy.com.br
+    salary: 910
+    gender: m
+  Tom:
+    email: tom@alvesxy.com.br
+    salary: 8100
+    gender: m
+  Rihana:
+    email: rihana@alvesxy.com.br
+    salary: 5980
+    gender: f
